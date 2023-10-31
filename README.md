@@ -1,2 +1,24 @@
-# hello-rails-react
-hello-rails-react is a web app build using rails for backend, react for front-end and webpack, that desplays a random greeting from a collection of greetings.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
